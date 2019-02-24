@@ -1,2 +1,7 @@
-# Sec-and-BK
-Assignment 4 in Database class
+# Security and Backup
+For this assignment, wo should:
+
+- Preventing unauthorized access
+- Discovering unauthorzed access
+- Recovering from unauthorized access
+
