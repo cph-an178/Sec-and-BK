@@ -1,5 +1,5 @@
 # Security and Backup
-For this assignment, wo should:
+For this assignment, we should:
 
 - Preventing unauthorized access
 - Discovering unauthorzed access
