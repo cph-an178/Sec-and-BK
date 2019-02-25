@@ -70,7 +70,7 @@ Make a number of operations on the database:
 
 To see the log file run this sql command `SELECT event_time, user_host, CONVERT(argument USING utf8 ) AS sqlcommand FROM mysql.general_log;`
 
-[Image of the log](https://github.com/cph-an178/Sec-and-BK/blob/master/imgs/log.png)
+![alt text](https://github.com/cph-an178/Sec-and-BK/blob/master/imgs/log.png "Image of the log")
 
 ## 3. Recovering from unauthorized access
 Create a backup file of the database after the changes in the two previous exercises.
